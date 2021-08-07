@@ -251,7 +251,7 @@ class _MainPageState extends State<MainPage> {
             children: [
               Center(
                 child: NavBarLogo(
-                  height: 28,
+                  height: 27,
                 ),
               ),
               Divider(
